@@ -1,0 +1,2 @@
+# FastDFS_configuration_file
+FastDFS_configuration_file
